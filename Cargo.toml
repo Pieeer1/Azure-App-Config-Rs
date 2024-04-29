@@ -4,6 +4,10 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT"
 description = "Azure App Configuration REST API Wrapper"
+repository = "https://github.com/Pieeer1/Azure-App-Config-Rs.git"
+homepage = "https://github.com/Pieeer1/Azure-App-Config-Rs.git"
+keywords = ["azure", "microsoft", "sdk", "appconfiguration", "appconfig"]
+readme = "README.md"
 
 [dependencies]
 serde = { version="1.0.114", features = ["derive"]}

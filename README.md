@@ -17,8 +17,8 @@ Also see the Example: [Basic Usage](examples/basic-usage.rs)
 
 ## Install
 
-`cargo add azure-app-config`
+`cargo add azure_app_config`
 
 ### Crates.IO
 
-https://crates.io/crates/azure-app-config
+https://crates.io/crates/azure_app_config

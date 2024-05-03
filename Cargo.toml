@@ -1,6 +1,6 @@
 [package]
 name = "azure_app_config"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "MIT"
 description = "Azure App Configuration REST API Wrapper"
